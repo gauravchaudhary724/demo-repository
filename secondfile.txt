@@ -1,3 +1,0 @@
-hello this is 2nd file.
-this is second file
-this is mesasageo of master branch
